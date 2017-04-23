@@ -43,4 +43,15 @@ tools:context="com.example.clarios6.emcampus.MainActivity">
     android:text="hidfdgsdhf"
     android:layout_below="@+id/schoolName"
     android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Call 911"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/callCampPol"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="17dp"
+        android:id="@+id/call911"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:textColor="?attr/actionMenuTextColor" />
 </RelativeLayout>

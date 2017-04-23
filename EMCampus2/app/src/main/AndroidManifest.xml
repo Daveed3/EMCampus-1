@@ -15,6 +15,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".CSU_SanJose" />
+        <activity android:name=".CSU" />
+        <activity android:name=".CSU_Fresno" />
+        <activity android:name=".CSU_LosAngeles" />
+        <activity android:name=".CSU_EastBay" />
+        <activity android:name=".CSU_DominguezHills" />
+        <activity android:name=".CSU_Chico" />
+        <activity android:name=".CSU_ChannelIslands" />
+        <activity android:name=".CSU_CalMaritime" />
+        <activity android:name=".CSU_Bakersfield"></activity>
     </application>
 
 </manifest>
